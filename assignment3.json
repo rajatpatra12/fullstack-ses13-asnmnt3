@@ -1,0 +1,23 @@
+{
+   "students": [
+
+      {
+      name:"rajat",
+      age:20,
+      weight:70,
+      height:5,
+      friends:["rakes","raju","selvam"],
+      college:{name:"siet",city:"badamba",pincode:500038}
+      },
+
+      {
+      name:"rajat",
+      age:20,
+      weight:70,
+      height:5,
+      friends:["rakes","raju","selvam"],
+      college:{name:"siet",city:"badamba",pincode:500038}
+      }
+
+   ]
+}
